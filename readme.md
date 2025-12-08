@@ -71,8 +71,7 @@ graph TD
     D -->|Predicts| E[Personalized Sales Funnel]
     E -->|Conversion| F[Transaction]
     F -->|Verifies| G[Blockchain Ledger]
-    G -->|Updates| CIngest: Web and Mobile interfaces collect granular user data.
-
+    G -->|Updates| C
 Process: AI models analyze behavior to score leads and personalize content.
 
 Execute: Automated funnels guide the user to conversion.
