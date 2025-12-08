@@ -72,33 +72,3 @@ graph TD
     E -->|Conversion| F[Transaction]
     F -->|Verifies| G[Blockchain Ledger]
     G -->|Updates| C
-Process: AI models analyze behavior to score leads and personalize content.
-
-Execute: Automated funnels guide the user to conversion.
-
-Secure: Blockchain layers verify transactions or manage digital assets.
-
-Learn: The system feeds success data back into the AI to improve efficiency.
-
-🤝 Why Brands Partner With PIVCOR
-Holistic Architecture: We understand that a mobile app is useless if it doesn't feed your sales team's CRM.
-
-Future-Ready: By integrating Blockchain and AI now, we prepare your infrastructure for the next decade of tech.
-
-Data Sovereignty: We build systems where you own your data, structured perfectly for scaling.
-
-Revenue Focused: Every line of code we write is designed to optimize sales and operational efficiency.
-
-<div align="center">
-
-<h3>Ready to build your Digital Ecosystem?</h3> <strong>Start the Transformation</strong>
-
-
-
-<a href="https://www.linkedin.com/company/pivcor"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect_on_LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Connect on LinkedIn"> </a>
-
-
-
-<sub>© 2025 PIVCOR. All Rights Reserved. | Engineering Growth through Technology.</sub>
-
-</div>
